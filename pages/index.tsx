@@ -2,7 +2,7 @@ import axios from "axios"
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import Header from "../components/layout/Header";
-import PropertyCard from "@/components/property/PropertyCard";
+import PropertyCard from "../components/property/PropertyCard";
 
 
 
